@@ -17,6 +17,10 @@ A Spring API using Kafka with producers and consumers
 ### Getting started
 
 ```shell
+docker compose up -d
+```
+
+```shell
 ./mvnw clean package
 ```
 
