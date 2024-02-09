@@ -1,5 +1,6 @@
-package io.matheusvictor.springmessagingwithkafka.service;
+package io.matheusvictor.springmessagingwithkafka.service.impl;
 
+import io.matheusvictor.springmessagingwithkafka.service.KafkaProducer;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Service;
 
